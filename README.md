@@ -7,10 +7,6 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=dracula&count_private=true)
 
-<div align="center">
-  <a href="https://github.com/leandromacedo117">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117layout=compact&langs_count=7&theme=gotham"/>
-</div>
 
 ## Tecnologias e Linguagens
 <div style="display: inline_block"><br>
@@ -18,8 +14,7 @@
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img src="https://skillicons.dev/icons?i=java" title="Java">
-  <img src="https://skillicons.dev/icons?i=php" title="PHP">
+
       
   
 </div>
