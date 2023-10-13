@@ -5,7 +5,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro__117/)
 
 
-![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=dracula&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&tdracula=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact)
 
 
