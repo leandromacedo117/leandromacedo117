@@ -14,11 +14,11 @@
   
 </div>
   
-  ## Aprendo e aperiçoando
+  ## Aprendo e aperfeiçoando
   <div style="display: inline_block">
   <img align="center" alt="leo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="leo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-    <img href="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"</img>
+    <img scr="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"</img>
 
 </div><br/>
 
