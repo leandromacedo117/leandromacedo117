@@ -7,14 +7,19 @@
 
 ![Fraga GitHub stats](https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=dracula&count_private=true)
 
+<div align="center">
+  <a href="https://github.com/leandromacedo117">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
 ## Tecnologias e Linguagens
 <div style="display: inline_block"><br>
   <img align="center" alt="leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="leo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="leo-Python" height="30" width="40" src="https://camo.githubusercontent.com/5d4cc9b5c0d71ad996fcde82d2da8e4b598b4c5b524aaa2f59f726417918d062/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661">
-          
+  <img src="https://skillicons.dev/icons?i=java" title="Java">
+  <img src="https://skillicons.dev/icons?i=php" title="PHP">
       
   
 </div>
