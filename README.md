@@ -1,8 +1,7 @@
    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
 
 ### Hello I'm Leandro very welcome 👋
- 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro__117/)
+
 
 
 <div align="center">
