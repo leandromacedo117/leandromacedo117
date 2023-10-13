@@ -5,8 +5,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leandro__117/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&tdracula=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact)
+<div align="center">
+  <a href="https://github.com/leandromacedo117">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact&langs_count=7&theme=gotham"/>
+</div>
 
 
 ## Tecnologias e Linguagens
