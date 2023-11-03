@@ -6,8 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/leandromacedo117">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=dracula
- "/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact&langs_count=7&theme=gotham"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=radical"/>  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact&langs_count=7&theme=gotham"/>
 </div>
  
 ## technologies and languages
