@@ -23,7 +23,7 @@
   <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
+  <img align="center" alt="Tailwind" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-plain.svg">
   <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
 </div>
 
@@ -41,9 +41,8 @@
   <img align="center" alt="MongoDB" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="PostgreSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Supabase" height="40" width="50" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png">
-  <img align="center" alt="Firebase" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
-  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Supabase" height="30" width="40" style="margin: 0 10px" src="https://raw.githubusercontent.com/supabase/supabase/master/packages/common/assets/images/supabase-logo-wordmark--dark.svg">
+  <img align="center" alt="AWS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
   <img align="center" alt="Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
@@ -60,14 +59,24 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=leandromacedo117&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandromacedo117&repo=your-repo-name&theme=tokyonight)](https://github.com/leandromacedo117/your-repo-name)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandromacedo117&repo=your-repo-name&theme=tokyonight)](https://github.com/leandromacedo117/your-repo-name)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandromacedo117&repo=REPO-NAME-1&theme=tokyonight)](https://github.com/leandromacedo117/REPO-NAME-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandromacedo117&repo=REPO-NAME-2&theme=tokyonight)](https://github.com/leandromacedo117/REPO-NAME-2)
 
-## 📈 Weekly Development Breakdown
-<!--START_SECTION:waka-->
+## 📈 Activity Graph
+[![Leandro's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leandromacedo117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-```text
-TypeScript    ████████████████████░░░░░   75.0%
-JavaScript    ████████░░░░░░░░░░░░░░░░░   30.0%
-Python        ████░░░░░░░░░░░░░░░░░░░░░   15.0%
-HTML/CSS      ██░░░░░░░░░░░░░░░░░░░░░░░   10.0%
+## 📫 Let's Connect!
+<div> 
+  <a href="https://www.linkedin.com/in/leandro-macedo-a16b67292/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:leeandromacedo117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://portfolio-leandromacedo.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white">
+  </a>
+</div>
+
+## 💡 Fun Fact
+⚡ When I'm not coding, you'll find me exploring new technologies, contributing to open source projects, or enjoying a good cup of coffee while brainstorming my next big idea!
