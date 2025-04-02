@@ -9,8 +9,11 @@
   <a href="https://github.com/leandromacedo117">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a> <!-- Fechamento correto da tag <a> -->
+  
   <br/>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandromacedo117&theme=tokyonight&hide_border=true"/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=leandromacedo117&theme=tokyonight&hide_border=true"/>
 </div>
 
 ## 🛠️ Tech Stack
@@ -59,8 +62,8 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=leandromacedo117&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📌 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandromacedo117&repo=REPO-NAME-1&theme=tokyonight)](https://github.com/leandromacedo117/REPO-NAME-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=leandromacedo117&repo=REPO-NAME-2&theme=tokyonight)](https://github.com/leandromacedo117/REPO-NAME-2)
+[![Readme Card](https://github.com/leandromacedo117/reprodutor-de-musica)
+[![Readme Card](https://github.com/leandromacedo117/weather-forecast.git)
 
 ## 📈 Activity Graph
 [![Leandro's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leandromacedo117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
