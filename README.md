@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-### Hi there, I'm Leandro Macedo! 👋
+## Hi there, I'm Leandro Macedo! 👋
 
 💻 Full Stack Developer | 🚀 JavaScript Expert | ☁️ Cloud Enthusiast  
 🌍 Based in Brazil | 📚 Continuous Learner | 🔥 Open Source Contributor
@@ -46,7 +46,7 @@
   <img align="center" alt="Figma" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
 </div>
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 <div style="display: inline_block">
   <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
