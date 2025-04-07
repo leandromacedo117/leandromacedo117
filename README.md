@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Leandro Macedo! 👋
 
-💻 Full Stack Developer | 🚀 JavaScript Expert | ☁️ Cloud Enthusiast  
+💻 Full Stack Developer | 🚀 JavaScript | ☁️ Cloud Enthusiast  
 🌍 Based in Brazil | 📚 Continuous Learner | 🔥 Open Source Contributor
 
 
