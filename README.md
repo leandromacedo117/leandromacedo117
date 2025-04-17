@@ -48,7 +48,6 @@
 
 ### 📚 Currently Learning
 <div style="display: inline_block">
-  <img align="center" alt="Redux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
   <img align="center" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 </div>
 
