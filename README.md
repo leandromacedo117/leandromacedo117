@@ -54,11 +54,13 @@
 ## 🏆 GitHub Achievements
 [![trophy](https://github-profile-trophy.vercel.app/?username=leandromacedo117&theme=onedark&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📌 Pinned Repositories
-[![Readme Card](https://github.com/leandromacedo117/reprodutor-de-musica)
-[![Readme Card](https://github.com/leandromacedo117/weather-forecast.git)
 
-## 📈 Activity Graph
+## 📈 Activity 
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/seuusername)
+
 [![Leandro's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leandromacedo117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 📫 Let's Connect!
