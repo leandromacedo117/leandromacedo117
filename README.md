@@ -59,7 +59,7 @@
 
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true&theme=radical)](https://github.com/seuusername)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/seuusername)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusername&layout=compact&theme=radical)](https://github.com/leandromacedo117)
 
 [![Leandro's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leandromacedo117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
