@@ -62,13 +62,13 @@
 
 <div align="center">
   <a href="https://github.com/leandromacedo117">
-    <img width="500" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=radical&hide_title=true&card_width=500" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=radical&hide_title=true&card_width=300" />
   </a>
 </div>
 
 <div align="center">
   <a href="https://github.com/leandromacedo117">
-    <img width="500" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact&theme=radical&hide_border=true&card_width=500" />
+    <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact&theme=radical&hide_border=true&card_width=300" />
   </a>
 </div>
 
