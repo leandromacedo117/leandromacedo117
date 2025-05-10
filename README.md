@@ -58,13 +58,19 @@
 ## 📈 Activity 
 
 
-[![GitHub 
-[![Leandro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=radical&hide_title=true)](https://github.com/leandromacedo117)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact&theme=radical&hide_border=true)](https://github.com/leandromacedo117)
 
 
-[![Leandro's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=leandromacedo117&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  <a href="https://github.com/leandromacedo117">
+    <img width="600" src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=radical&hide_title=true&card_width=600" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/leandromacedo117">
+    <img width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromacedo117&layout=compact&theme=radical&hide_border=true&card_width=600" />
+  </a>
+</div>
 
 ## 📫 Let's Connect!
 <div> 
