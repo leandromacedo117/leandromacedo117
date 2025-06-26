@@ -62,7 +62,7 @@
 
 <div align="center">
   <a href="https://github.com/leandromacedo117">
-    <img src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=radical&hide_title=true&card_width=500&cache_seconds=60" />
+    <img src="https://github-readme-stats.vercel.app/api?username=leandromacedo117&show_icons=true&theme=radical&hide_title=true&card_width=400&cache_seconds=60" />
   </a>
 </div>
 
